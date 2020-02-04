@@ -1,2 +1,2 @@
 # Proyecto
-Proyecto cliente-servidor
+Proyecto cliente
